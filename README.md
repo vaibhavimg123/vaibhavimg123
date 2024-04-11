@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavimg123&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavimg123" /> </p>
 
-- 🌱 I’m currently learning **laravel**
-
 - 👨‍💻 All of my projects are available at [ https://vaibhavimg123.github.io/]( https://vaibhavimg123.github.io/)
 
 - 💬 Ask me about **Angular**
